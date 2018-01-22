@@ -1,7 +1,8 @@
 # Bitcoin-Data
-This App will display updated bitcoin price in 3 different currencies.
+This App will display updated Bitcoin price in 3 different currencies.
 
 
+#App Installation
 
 Install node
 

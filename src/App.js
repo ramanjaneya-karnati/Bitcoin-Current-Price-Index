@@ -39,10 +39,6 @@ class App extends Component {
       return (
         <div>
             <h1>{this.state.data.chartName}</h1>
-
-
-
-
             <table id="t01">
                 <tr>
                     <th>Code</th>
